@@ -1,4 +1,9 @@
 # SentimentAnalysisOnCovid19Tweets
+
+Contributors:
+@Raghavendra Sreenivas Acharya
+@Yashasri Edukulla
+
 Analyzed user data from twitter to predict the sentiment from the text, improving accuracy to 80.5%.
 
 AI Algorithm Used: NLTK/NLP, CNN, FCNN and kNN, Naïve Bayes, Keras, TF/IDF and Word2Vec
